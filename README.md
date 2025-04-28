@@ -18,7 +18,7 @@ pip install behave
   
 2. features/steps/api_steps.py
    import requests
-   from behave import given, when, then
+   from behave import given, when, then,
 
   @given('I send a GET request to "{url}"')
   def step_impl(context, url):
@@ -40,5 +40,5 @@ pip install behave
  Simply run:
 
 behave
-You'll see the feature and steps execute beautifully in BDD style ✅.
+You'll see the feature and steps execute beautifully in BDD style 
 
