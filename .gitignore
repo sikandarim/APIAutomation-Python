@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Allure results
+AllureReports/
+allure-results/
+
+# Ignore JetBrains IDE config (PyCharm, IntelliJ)
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Mac system files
+.DS_Store
