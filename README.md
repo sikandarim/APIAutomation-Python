@@ -4,9 +4,9 @@
 
 Before you begin, ensure you have the following tools installed:
 
-**pip install requests
-**pip install behave
-**(If you want, you can also create a requirements.txt later.)
+pip install requests
+pip install behave
+(If you want, you can also create a requirements.txt later.)
 
 # BDD Format
 **1.Feature: API Testing
