@@ -3,7 +3,7 @@
 # Required Installations
 
 Before you begin, ensure you have the following tools installed:
-
+```bash
 pip install requests
 pip install behave
 (If you want, you can also create a requirements.txt later.)
